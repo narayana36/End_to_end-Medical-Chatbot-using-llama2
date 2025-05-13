@@ -1,5 +1,5 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
-pinecone-client
-langchain==0.0.225
-flask
+ctransformers==0.2.5 #to load the quatize model
+sentence-transformers==2.2.2 # embedding generation for the text
+pinecone-client ==2.2.0 #vector database
+langchain==0.0.225 
+flask #web freamework
